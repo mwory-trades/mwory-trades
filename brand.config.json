@@ -79,7 +79,7 @@
         "css_variable_prefix": "--brand"
     },
     "platform": {
-        "name": "Mwory-trades",
+        "name": "mwory-trades",
         "i18n": {
             "default_language": "EN"
         },
